@@ -1,0 +1,47 @@
+# Compiled object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executable files
+*.out
+*.exe
+
+# Debug and profiling files
+*.gch
+*.gcda
+*.gcno
+*.gcov
+*.prof
+*.dSYM/
+*.stackdump
+
+# Dependency and log files
+*.d
+*.dep
+*.log
+
+# Build directories (if applicable)
+build/
+dist/
+out/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# IDE-specific files (e.g., for Visual Studio Code, CLion, etc.)
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+
